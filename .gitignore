@@ -1,0 +1,10 @@
+target/
+uploads/
+reports/
+*.log
+.env
+.idea/
+*.iml
+.vscode/
+# Binaire tiers, à télécharger séparément (voir README)
+src/main/resources/apktool.jar
